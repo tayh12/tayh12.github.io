@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+___
+title: "About Me"
+layout: default 
+___
+## About me ##
+This page is to learn a little more about me, Taylor Hartman!
 
-You can use the [editor on GitHub](https://github.com/tayh12/tayh12.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+One of my favorite things to do when I have time is to travel. My last big trip I went on was to the United Kingdom. This was one of my all time favorite trips.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below is a picture from when I went to Paris France.
 
-### Markdown
+![The Effiel Tower](IMG_6826.JPG)  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Something very important to me in my life is my dog Benz. He is a dachshund and the cutest ever. He lives with my parents, so I get very excited to go home and see him.
 
-```markdown
-Syntax highlighted code block
+Below is a picture of us:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tayh12/tayh12.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Benz](IMG_0053.jpeg) 
